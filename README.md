@@ -50,6 +50,7 @@ A Django application for validating and processing quotes with risk assessment f
    - Consistent error responses
    - Proper validation at serializer level
    - Business logic exceptions handled appropriately
+   - Logging strategy implemented for debugging purposes
 
 3. **Documentation**
    - Docstrings for key functions
